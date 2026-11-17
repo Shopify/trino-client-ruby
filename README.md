@@ -1,3 +1,5 @@
+> **This repository is no longer maintained.** It has been archived by Shopify and receives no updates or security fixes.
+
 # Trino client library for Ruby
 
 [![Build Status](https://travis-ci.org/treasure-data/trino-client-ruby.svg?branch=master)](https://travis-ci.org/treasure-data/trino-client-ruby) [![Gem](https://img.shields.io/gem/v/trino-client)](https://rubygems.org/gems/trino-client) [![Gem](https://img.shields.io/gem/dt/trino-client)](https://rubygems.org/gems/trino-client) [![GitHub](https://img.shields.io/github/license/treasure-data/trino-client-ruby)]()
